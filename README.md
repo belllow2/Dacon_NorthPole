@@ -20,6 +20,7 @@ Dacon BaseLine Code 가져옴
 ## ConvLSTM(Conv3D, ConvLSTM2D, BatchNormalization, Optimizer=Adam)
 * Keras.layers에 있음
 * Conv3D에 대해 좀 알아봐야겠음
+
 ## Ensemble(TTS)
 * 추론 결과 중복된 영역의 경우 평균을 이용해 앙상블
 * Stride가 작을 수록 앙상블에 의해 결과가 좋아지나 일정값 이상으로 작아지면 추론시간이 급격히 우상향
